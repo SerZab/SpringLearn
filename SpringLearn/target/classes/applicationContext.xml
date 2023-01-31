@@ -9,7 +9,7 @@
 
     <bean id="testBean"
           class="de.telran.TestBean">
-        <constructor-arg value="SergeyZabolotnyi"/>
+        <constructor-arg value="SergeyZ"/>
     </bean>
 
 </beans>
